@@ -107,10 +107,9 @@ Prototipos con Python y OpenCV para detección, inspección, análisis visual y 
 **Ubicación:** Patagonia Argentina  
 **Área de trabajo:** Edge AI, IoT industrial, visión artificial, automatización y robótica aplicada  
 
-**LinkedIn:linkedin.com/in/adolfo-dario-saavedra/**  
-**Sitio web:https://surroboticsai.net/**  
-**Email: adolfodsaavedra@gmail.com**  
-
+**LinkedIn:** https://www.linkedin.com/in/adolfo-dario-saavedra/  
+**Sitio web:** https://surroboticsai.net/  
+**Email:** adolfodsaavedra@gmail.com
 ---
 
 > Desarrollo soluciones de inteligencia artificial aplicada, automatización y robótica para resolver problemas reales en entornos productivos.
